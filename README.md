@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KHUSHI-jai-n
-- 👀 I’m interested in learning, developing and coding.
-- 🌱 I’m currently learning development and DSA!
+- 👀 I’m interested in Java, AWS and web development
+- 🌱 I’m currently learning DSA!
 
 
 <!---
