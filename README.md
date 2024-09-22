@@ -47,7 +47,7 @@ Check out more of my projects [here](https://github.com/KHUSHI-jai-n/).
 
 ### 📫 How to Reach Me
 
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/khushi-jain-07b65a222/)
+- [LinkedIn](https://www.linkedin.com/in/khushi-jain-07b65a222/)
 
 ---
 
