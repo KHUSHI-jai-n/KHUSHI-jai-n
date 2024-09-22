@@ -15,7 +15,7 @@ I'm an aspiring **Software Developer** passionate about building impactful web a
 </p>
 
 <p align="center">
-   <img src="https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white&style=for-the-badge" alt="SQL">
+   <img src="https://img.shields.io/badge/SQL-003B57?logo=sql&logoColor=white&style=for-the-badge" alt="SQL">
    <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge" alt="Tailwind CSS">
 </p>
 
@@ -41,7 +41,7 @@ Check out more of my projects [here](https://github.com/KHUSHI-jai-n/).
 ### 🏅 Certifications
 
 - **AWS Certified Solutions Architect Associate**
-![AWS-Certified](https://github.com/user-attachments/assets/c1727c69-2cc0-4728-b633-c4d31f57da6d)
+<image src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Badge" width="100">
 
 ---
 
