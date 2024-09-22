@@ -41,7 +41,7 @@ Check out more of my projects [here](https://github.com/KHUSHI-jai-n/).
 ### 🏅 Certifications
 
 - **AWS Certified Solutions Architect Associate**
-<img src="![image](https://github.com/user-attachments/assets/ee0430a2-6b38-4a4f-b177-190b94f2d76b)" alt="AWS Badge" width="150">
+![AWS-Certified](https://github.com/user-attachments/assets/c1727c69-2cc0-4728-b633-c4d31f57da6d)
 
 ---
 
