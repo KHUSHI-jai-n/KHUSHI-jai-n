@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Khushi 👋
 
 I'm an aspiring **Software Developer** passionate about building impactful web applications and leveraging cloud technologies to solve real-world problems. I enjoy solving problems, developing efficient solutions, and constantly learning new tools and technologies.
 
@@ -41,8 +41,7 @@ Check out more of my projects [here](https://github.com/KHUSHI-jai-n/).
 ### 🏅 Certifications
 
 - **AWS Certified Solutions Architect Associate**
-  
-  ![image](https://github.com/user-attachments/assets/ee0430a2-6b38-4a4f-b177-190b94f2d76b)
+<img src="![image](https://github.com/user-attachments/assets/ee0430a2-6b38-4a4f-b177-190b94f2d76b)" alt="AWS Badge" width="150">
 
 ---
 
