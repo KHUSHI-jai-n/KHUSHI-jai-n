@@ -25,16 +25,16 @@ I'm an aspiring **Software Developer** passionate about building impactful web a
 
 Here are some of the exciting projects I've worked on:
 
-#### PrepMate | NextJS, Tailwind CSS, Drizzle ORM, Gemini AI
+#### PrepMate | *NextJS, Tailwind CSS, Drizzle ORM, Gemini AI*
 An AI-powered mock interview platform designed to provide instant feedback and tailored interview questions using the Gemini AI API.
 
-#### Recipe App | HTML, CSS, Javascript, AWS S3, CloudFront
+#### Recipe App | *HTML, CSS, Javascript, AWS S3, CloudFront*
 A static web application hosted on Amazon S3 and distributed via CloudFront, featuring user-friendly recipe management.
 
-#### CRUD Serverless API | AWS Lambda, API Gateway, DynamoDB
+#### CRUD Serverless API | *AWS Lambda, API Gateway, DynamoDB*
 A fully functional CRUD API built using Lambda, API Gateway, and DynamoDB for seamless serverless operations.
 
-Check out more of my projects [here](https://github.com/KHUSHI-jai-n/).
+Check out more of my projects [here](https://github.com/KHUSHI-jai-n?tab=repositories).
 
 ---
 
@@ -52,7 +52,7 @@ Check out more of my projects [here](https://github.com/KHUSHI-jai-n/).
 ---
 
 ### ⚡ Fun Facts
-- I'm a **chocolate lover** 🍫.
+- I'm like **chocolates** 🍫.
 - I love watching **movies** 🎬.
 - **AWS Certified** and continuously learning about cloud architectures 🚀.
 
