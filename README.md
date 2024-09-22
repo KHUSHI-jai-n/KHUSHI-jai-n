@@ -53,7 +53,7 @@ Check out more of my projects [here](https://github.com/KHUSHI-jai-n/).
 
 ### ⚡ Fun Facts
 - I'm a **chocolate lover** 🍫.
-- I love watching **thrillers** 🎬.
-- **AWS Certified** and continuously learning about coud architectures 🚀.
+- I love watching **movies** 🎬.
+- **AWS Certified** and continuously learning about cloud architectures 🚀.
 
 Thank you for visiting my GitHub! Feel free to check out my repositories!
