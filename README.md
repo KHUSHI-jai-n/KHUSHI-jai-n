@@ -4,7 +4,7 @@ I'm an aspiring **Software Developer** passionate about building impactful web a
 
 ---
 
-#### 🛠 Tech Stack & Skills
+### 🛠 Tech Stack & Skills
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-orange?logo=amazonaws&logoColor=white&style=for-the-badge" alt="AWS">
@@ -21,7 +21,7 @@ I'm an aspiring **Software Developer** passionate about building impactful web a
 
 ---
 
-#### 🌟 Projects
+### 🌟 Projects
 
 Here are some of the exciting projects I've worked on:
 
