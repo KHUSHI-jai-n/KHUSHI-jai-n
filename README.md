@@ -4,7 +4,7 @@ I'm an aspiring **Software Developer** passionate about building impactful web a
 
 ---
 
-### 🛠 Tech Stack & Skills
+#### 🛠 Tech Stack & Skills
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-orange?logo=amazonaws&logoColor=white&style=for-the-badge" alt="AWS">
@@ -21,37 +21,37 @@ I'm an aspiring **Software Developer** passionate about building impactful web a
 
 ---
 
-### 🌟 Projects
+#### 🌟 Projects
 
 Here are some of the exciting projects I've worked on:
 
-### PrepMate | *NextJS, Tailwind CSS, Drizzle ORM, Gemini AI*
+#### PrepMate | *NextJS, Tailwind CSS, Drizzle ORM, Gemini AI*
 An AI-powered mock interview platform designed to provide instant feedback and tailored interview questions using the Gemini AI API.
 
-### Recipe App | *HTML, CSS, Javascript, AWS S3, CloudFront*
+#### Recipe App | *HTML, CSS, Javascript, AWS S3, CloudFront*
 A static web application hosted on Amazon S3 and distributed via CloudFront, featuring user-friendly recipe management.
 
-### CRUD Serverless API | *AWS Lambda, API Gateway, DynamoDB*
+#### CRUD Serverless API | *AWS Lambda, API Gateway, DynamoDB*
 A fully functional CRUD API built using Lambda, API Gateway, and DynamoDB for seamless serverless operations.
 
 Check out more of my projects [here](https://github.com/KHUSHI-jai-n?tab=repositories).
 
 ---
 
-## 🏅 Certifications
+### 🏅 Certifications
 
 - **AWS Certified Solutions Architect Associate**
 <image src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Badge" width="100">
 
 ---
 
-## 📫 How to Reach Me
+### 📫 How to Reach Me
 
 - [LinkedIn](https://www.linkedin.com/in/khushi-jain-07b65a222/)
 
 ---
 
-## ⚡ Fun Facts
+###⚡ Fun Facts
 - I'm like **chocolates** 🍫.
 - I love watching **movies** 🎬.
 - **AWS Certified** and continuously learning about cloud architectures 🚀.
