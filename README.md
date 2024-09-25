@@ -51,7 +51,7 @@ Check out more of my projects [here](https://github.com/KHUSHI-jai-n?tab=reposit
 
 ---
 
-###⚡ Fun Facts
+### ⚡ Fun Facts
 - I'm like **chocolates** 🍫.
 - I love watching **movies** 🎬.
 - **AWS Certified** and continuously learning about cloud architectures 🚀.
